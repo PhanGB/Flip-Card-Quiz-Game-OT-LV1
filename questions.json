@@ -40,88 +40,65 @@
       "options": ["Một thiết bị hiển thị (A display device)", "Một thiết bị đa phương tiện (A media device)", "Một thiết bị wifi (A wifi device)", "Một thiết bị lưu trữ (A storage device)"],
       "a": "Một thiết bị wifi (A wifi device)"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
     {
-      "q": "Em hãy cho biết, tuỳ chọn nào là khả năng tiếp cận trong công nghệ?",
-      "options": ["Sự dễ dàng sử dụng và sẵn có của công nghệ dành cho người khuyết tật", "Cách dữ liệu được gửi qua internet", "Quá trình lưu trữ dữ liệu trên đám mây", "Khả năng kết nối với mạng"],
-      "a": "Sự dễ dàng sử dụng và sẵn có của công nghệ dành cho người khuyết tật"
+      "q": "Thuật ngữ cho thời gian bạn dành để làm những việc như:\n- Xem một chương trình truyền hình với gia đình của bạn\n- Chơi trò chơi điện tử trên bảng điều khiển\n- Gửi tin nhắn văn bản từ điện thoại thông minh\n- Nghiên cứu một cái gì đó trên máy tính",
+      "options": ["Thời gian sử dụng thiết bị (Screen time)", "Cân bằng truyền thông (Media balance)", "Tương tác trực tuyến (Online interaction)", "Thời gian tập trung (Focus time)"],
+      "a": "Thời gian sử dụng thiết bị (Screen time)"
     },
     {
-      "q": "Em hãy cho biết, mục đích cua địa chỉ IP (Internet Protocol) là gì?",
-      "options": ["Xác định các thiết bị hỗ trợ internet trên mạng máy tính", "Xác định vị trí địa chỉ vật lý của trang web", "Gửi và nhận email", "Xác định thông tin cá nhân của người dùng"],
-      "a": "Xác định các thiết bị hỗ trợ internet trên mạng máy tính"
+      "q": "Học sinh mới cần tạo một trang Web với mật khẩu là orange mà trường học của bạn sử dụng để quản lý bài tập về nhà. Họ yêu cầu bạn cung cấp các mẹo mật khẩu. Bạn nên nói gì với họ?",
+      "options": ["Chia sẻ mật khẩu với bạn trong trường hợp họ quên nó", "Tạo mật khẩu ngắn để dễ nhớ", "Sử dụng số và ký hiệu trong mật khẩu", "Sử dụng tên thú cưng của họ làm mật khẩu"],
+      "a": "Sử dụng số và ký hiệu trong mật khẩu"
     },
     {
-      "q": "Em hãy cho biết, internet là gì?",
-      "options": ["Một trình duyệt web", "Một mạng lưới toàn cầu gồm các thiết bị được kết nối", "Một thiết bị để thực hiện cuộc gọi điện thoại", "Một vị trí vật lí nơi dữ liệu được lưu trữ"],
-      "a": "Một mạng lưới toàn cầu gồm các thiết bị được kết nối"
+      "q": "Phần thông tin nào là an toàn để chia sẻ trực tuyến?",
+      "options": ["Tên trường của bạn", "Màu sắc yêu thích của bạn", "Địa điểm yêu thích của bạn", "Công viên ưa thích của bạn"],
+      "a": "Màu sắc yêu thích của bạn"
     },
     {
-      "q": "Em hãy cho biết, lợi ích của việc lưu trữ đám mây là gì?",
-      "options": ["Thông tin chỉ có thể được truy cập bởi một thiết bị tại một thời điểm", "Bản in trên giấy của tài liệu được lưu trữ", "Bất kỳ ai cũng có thể truy cập vào dữ liệu mà không cần xin phép", "Dữ liệu được tự động đồng bộ hoá trên tất cả thiết bị"],
-      "a": "Dữ liệu được tự động đồng bộ hoá trên tất cả thiết bị"
+      "q": "Bạn nhận được một email từ cửa hàng yêu thích của mình nói rằng bạn đã giành được 1000 đô la. Bạn có thể nhập thông tin của mình vào biểu mẫu trực tuyến để nhận tiền. Điều gì sẽ khiến bạn quan tâm về email này?",
+      "options": ["Tiền ở dạng thẻ quà tặng chỉ có thể được sử dụng tại một địa điểm", "Cửa hàng có thể đã nhầm lẫn vì bạn không nhớ đã tham gia cuộc thi", "Cửa hàng có thể muốn bạn tham gia vào một chiến dịch quảng cáo", "Email có thể là từ một kẻ lừa đảo đang cố gắng thu thập thông tin cá nhân của bạn"],
+      "a": "Email có thể là từ một kẻ lừa đảo đang cố gắng thu thập thông tin cá nhân của bạn"
     },
     {
-      "q": "Em hãy cho biết, tuỳ chọn nào dưới đây là mô tả đúng về USB Drive?",
-      "options": ["Một thiết bị nhớ hoạt động trên đám mây", "Một cơ sở dữ liệu lưu trữ các tập tin trực tuyến", "Một thiết bị lưu trữ dạng cắm", "Một không gian lưu trữ trên một ổ cứng"],
-      "a": "Một thiết bị lưu trữ dạng cắm"
+      "q": "Bạn nên làm gì nếu bạn bị người lạ có hành vi trực tuyến tục tĩu không phù hợp?",
+      "options": ["Nói với người lạ rằng bạn không thích hành vi của họ", "Trò chuyện với người lạ để giữ họ trực tuyến", "Nói với cha mẹ hoặc giáo viên của bạn", "Yêu cầu người lạ dừng hành vi"],
+      "a": "Nói với cha mẹ hoặc giáo viên của bạn"
     },
     {
-      "q": "Em hãy cho biết, thuật ngữ nào chỉ các bit dữ liệu nhỏ được thu thập bởi trang web mà em truy cập?",
-      "options": ["Bảng tính", "Cookies", "Dữ kiện", "Tấn công xâm nhập (Hacking)"],
-      "a": "Cookies"
+      "q": "Nhóm nào thích hợp cho bạn bè trực tuyến?",
+      "options": ["Những người bạn biết trong cuộc sống thực", "Những người thực hiện giao hàng đến nhà bạn", "Những người bạn gặp khi chơi trò chơi trực tuyến"],
+      "a": "Những người bạn biết trong cuộc sống thực"
     },
     {
-      "q": "Máy in của em ngừng in, em nên làm gì trước tiên để giải quyết vấn đề này",
-      "options": ["Kiểm tra dây cáp hoặc kết nối của máy in", "Dọn sạch hàng chờ máy in", "Khởi động lại máy tính", "Thay đổi trình điều khiển máy in"],
-      "a": "Kiểm tra dây cáp hoặc kết nối của máy in"
+      "q": "Thuật ngữ cho phần mềm chạy trên điện thoại hoặc máy tính bảng là gì?",
+      "options": ["Program (Chương trình)", "Icon (Biểu tượng)", "App (Ứng dụng)", "Widget (Tiện ích)"],
+      "a": "App (Ứng dụng)"
     },
     {
-      "q": "Máy tính của em bị chậm. Em nên làm gì trước tiên?",
-      "options": ["Rút phích cắm máy tính", "Cập nhật hệ điều hành", "Nhấp chuột liên tục", "Đóng các ứng dụng hoặc cửa sổ không sử dụng"],
-      "a": "Đóng các ứng dụng hoặc cửa sổ không sử dụng"
+      "q": "Bạn đang học trực tuyến tại thư viện công cộng. Bạn cần sạc pin máy tính xách tay để hoàn thành công việc của mình. Một người lạ đang sạc điện thoại di động của họ ở ổ cắm gần nhất. Bạn nên làm gì để vừa sạc pin máy tính và vừa tiếp tục làm việc?",
+      "options": ["Sử dụng dây nối dài kéo dài khắp thư viện để bạn không phải thay đổi chỗ ngồi", "Di chuyển đến khu vực có sẵn một ổ cắm để sạc pin máy tính và tiếp tục buổi học", "Rút phích cắm của điện thoại di động để bạn có thể sử dụng ổ cắm gần đó", "Học cho đến khi hết pin máy tính xách tay để bạn không làm phiền bất cứ ai"],
+      "a": "Di chuyển đến khu vực có sẵn một ổ cắm để sạc pin máy tính và tiếp tục buổi học"
     },
     {
-      "q": "Em hãy cho biết, URL (Uniform Resource Locator) là gì?",
-      "options": ["Tác giả của một trang web", "Tên của một trang web", "Nhà phát hành của một trang web", "Địa chỉ của một trang web"],
-      "a": "Địa chỉ của một trang web"
+      "q": "Bạn hãy cho biết, phần mềm nào dưới đây là phần mềm ứng dụng?",
+      "options": ["iOS", "Flash Drive", "Windows", "Microsoft Word"],
+      "a": "Microsoft Word"
     },
     {
-      "q": "Khi tìm một nhà hàng bán thức ăn nhanh trên mạng, hành động nào sẽ có thể giúp ẩn vị trí của em?",
-      "options": ["Bật duyệt web ở chế độ riêng tư", "Xoá cookies của em", "Xoá cache (bộ đệm ẩn) sau khi ngừng duyệt web", "Tải phần mềm chặn quảng cáo"],
-      "a": "Bật duyệt web ở chế độ riêng tư"
+      "q": "Bạn cần kết nối máy tính bảng với internet. Bạn nên sư dụng loại phương tiện nào dưới đây?",
+      "options": ["A printer cable", "A monitor cable", "Bluetooth", "Wi-Fi"],
+      "a": "Wi-Fi"
     },
     {
-      "q": "Orson là tài xế xe buýt của một trường học. Anh ấy đang chở một đoàn học sinh đi thực tế đến một nơi chưa từng đến. Anh ấy có thể sử dụng loại công nghệ nào để giúp mình mình định hướng được vị trí cần đến?",
-      "options": ["GPS (Global Poisitioning System)", "Quả địa cầu (Globe)", "Radio", "Máy phát MP3 (MP3 Player)"],
-      "a": "GPS (Global Poisitioning System)"
+      "q": "Bạn hãy cho biết, loại phần cứng (hardware) nào gửi dữ liệu đến máy tính?",
+      "options": ["Nhập (Input)", "Lưu trữ (Storage)", "Màn hình (Monitor)", "Xuất (Output)"],
+      "a": "Nhập (Input)"
     },
     {
-      "q": "Em hãy cho biết địa chỉ URL nào có định dạng đúng?",
-      "options": ["https://www.companypro.net/test", "https://www.companypro/net/test", "http://www.companypro/test","https://.companypro.net/test"],
-      "a": "https://www.companypro.net/test"
+      "q": "Bạn hãy cho biết, phần mềm nào sau đây là hệ điều hành?",
+      "options": ["Google", "Microsoft Word", "Apple iPad","Microsoft Windows"],
+      "a": "Microsoft Windows"
     }
   ],
 

@@ -139,7 +139,9 @@
       }
 
       currentQuestion = question;
-      document.getElementById("questionText").textContent = question.q;
+      const questionElement = document.getElementById("questionText");
+      questionElement.textContent = question.q;
+      questionElement.style.whiteSpace = "pre-line";
       const container = document.getElementById("optionsContainer");
       container.innerHTML = "";
 
